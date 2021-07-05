@@ -1,8 +1,8 @@
 {
     "name": "bogiesoft/qr-payment",
-    "description": "PHP Library to generate QR Code for QR-Payment and PromptPay ",
+    "description": "PHP Library to Payment Gateway",
     "keywords": [
-        "QR-Payment", "Promptpay"
+        "SCB-Payment", "Kbank-Payment"
     ],
     "license": "MIT",
     "require": { 
