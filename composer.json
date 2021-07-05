@@ -1,5 +1,5 @@
 {
-    "name": "bogiesoft/qr-payment",
+    "name": "bogiesoft/paymentlib",
     "description": "PHP Library to Payment Gateway",
     "keywords": [
         "SCB-Payment", "Kbank-Payment"
