@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "bogiesoft\\paymentlib\\": "library/"
+            "Bogiesoft\\Paymentlib\\": "library/"
         }
     }
 }
